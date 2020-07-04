@@ -1,1 +1,1 @@
-### Personal portfolio website - https://bhuvanbalasubramanian.github.io/
+### Portfolio website - https://bhuvanbalasubramanian.github.io/
